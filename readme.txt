@@ -1,1 +1,3 @@
-first test
+first test：push
+second test :clone
+
